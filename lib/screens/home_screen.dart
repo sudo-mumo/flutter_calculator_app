@@ -11,7 +11,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      color: const Color.fromARGB(234, 17, 11, 11),
+      color: const Color.fromARGB(204, 17, 11, 11),
     );
   }
 }
